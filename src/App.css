@@ -1,0 +1,41 @@
+
+h1
+{
+font-size: 80px;
+
+padding-left: 40px;
+/* padding-bottom: 20px; */
+
+  
+}
+form
+{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  border: 2px solid black;
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+input {
+  margin: 10px 0px;
+  width: 221px;
+  height: 30px;
+  border-radius: 11px;
+  outline: none;
+  border: none;
+}
+::placeholder
+{
+  padding-left: 20px;
+}
+.first
+{
+     margin: 0px 0px; 
+     width: 20px; 
+     height: 10px;
+     padding-left: 20px;
+     margin-right: 44px;
+
+}
